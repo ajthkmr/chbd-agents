@@ -1,0 +1,9 @@
+agno
+groq
+python-dotenv
+duckduckgo-search
+pypdf
+lancedb
+pandas
+tantivy
+ollama
